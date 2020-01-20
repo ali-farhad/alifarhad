@@ -2,7 +2,7 @@
 title: 'Ali farhad Blog'
 description: 'this is my blog where I share fun things with the world'
 keywords: 'IT, Computer Science'
-url: 'https://abc.github.io' # your host
+url: '/' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
